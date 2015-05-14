@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="googleplaces">
+        <attr name="type" format="string" />
+        <attr name="sensor" format="string" />
+        <attr name="key" format="string" />
+        <attr name="delay" format="integer" />
+    </declare-styleable>
+</resources>

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Android GooglePlaceAutoComplete 
 
 GooglePlaceAutoComplete is a module that you can integrate in your android app to make google places autocomplete easly.
@@ -54,4 +55,6 @@ type: Restricts the results to places matching of the specified types.
 delay: Time (millisecondes) before start searching.
 
 
-
+=======
+# GooglePlaceAutoComplete
+>>>>>>> 6e178cedd74ba24a5b54db29ead864fabc0d218d
