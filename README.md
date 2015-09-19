@@ -33,7 +33,7 @@ Whenever you need to use the GooglePlaceAutoComplete just do the following in yo
 	   android:layout_width="match_parent"
 	   android:layout_height="wrap_content"
 
-	   whatever:key="Your application's API key"
+	   whatever:key="AIzaSyDDjT9ri_FVK40KVzxmvsYBhKv10BfHu_0"
 	   whatever:type="(cities)"
 	   whatever:sensor="true"
 	   whatever:delay="700" />
@@ -49,8 +49,10 @@ In your activity, you can get result like this:
 
 Attributes definition:
 
-key: Your application's API key. 
+key: Your application's API key,(You can use my API_KEY: "AIzaSyDDjT9ri_FVK40KVzxmvsYBhKv10BfHu_0")
+
 type: Restricts the results to places matching of the specified types.
+
 delay: Time (millisecondes) before start searching.
 
 
